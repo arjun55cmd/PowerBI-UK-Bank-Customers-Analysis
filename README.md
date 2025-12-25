@@ -31,7 +31,6 @@ This dashboard provides a consolidated view of all key metrics and trends relate
 ![Key Metrics](key_metrics.png)
 
 ### Metrics Included:
-- **Total Customers**
 - **Average Customer Age**
 - **Average Account Balance**
 
