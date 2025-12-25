@@ -24,49 +24,23 @@ The dashboard is designed to support data-driven decision-making for banking sta
 
 ---
 
-## 📸 Dashboard Overview
+## 📊 Dashboard Overview
 ![Dashboard Overview](dashboard_overview.png)
 
 ---
 
-## 📊 Key Metrics
+## 📌 Key Metrics
 ![Key Metrics](key_metrics.png)
-
-**Metrics Included:**
-- Total Customers
-- Average Customer Age
-- Average Account Balance
 
 ---
 
-## 💰 Revenue by Product
-![Revenue by Product](revenue_by_product.png)
-
-**Insight:**
-- Certain product categories contribute disproportionately higher balances.
-- Clear revenue concentration helps identify high-value offerings.
+## 👥 Balance by Gender
+![Balance by Gender](balance_by_gender.png)
 
 ---
 
 ## 📈 Balance Trend Over Time
-![Sales Trend Over Time](sales_trend_over_time.png)
-
-**Insight:**
-- Customer balances increase significantly toward year-end.
-- Seasonal trends indicate higher inflows during Q4.
-
----
-
-## 🔍 Key Insights
-- Male customers hold slightly higher total balances compared to female customers.
-- White-collar customers contribute the highest balances across job categories.
-- The average customer age is around 39, indicating a mature customer base.
-- Balance growth accelerates toward year-end, suggesting seasonal financial behavior.
-
----
-
-## 📁 Project File
-- `UK_Bank_Customers_Analysis.pbix` (Power BI dashboard file)
+![Balance Trend Over Time](balance_trend_over_time.png)
 
 ---
 
