@@ -78,7 +78,6 @@ The average customer age is around **38 years**, with a balanced distribution of
 | `key_metrics.png` | KPI cards snapshot |
 | `balance_by_gender.png` | Gender-based balance analysis |
 | `balance_trend_over_time.png` | Time-based balance trend |
-| `README.md` | Project documentation |
 
 ---
 
@@ -91,9 +90,5 @@ The average customer age is around **38 years**, with a balanced distribution of
 
 ---
 
-## 👨‍💼 Author
-
-**Arjun Sharma**  
-Aspiring Data Analyst | Power BI | SQL | Excel  
 
 📌 *This project is part of my analytics portfolio and is open for feedback and discussion.*
