@@ -7,23 +7,6 @@ The dashboard is designed to support data-driven decision-making for banking sta
 
 ---
 
-## 🛠 Tools Used
-- Power BI
-- Microsoft Excel
-- DAX
-- Power Query
-
----
-
-## 📂 Dataset
-- UK Bank Customers dataset containing:
-  - Customer demographics (Age, Gender)
-  - Job classification
-  - Account balance
-  - Time-based transaction data
-
----
-
 ## 📊 Dashboard Overview
 ![Dashboard Overview](dashboard_overview.png)
 
@@ -41,6 +24,7 @@ The dashboard is designed to support data-driven decision-making for banking sta
 
 ## 📈 Balance Trend Over Time
 ![Balance Trend Over Time](balance_trend_over_time.png)
+
 
 ---
 
